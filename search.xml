@@ -31,6 +31,17 @@
     
     
     <entry>
+      <title></title>
+      <link href="/css/custom.css"/>
+      <url>/css/custom.css</url>
+      
+        <content type="html"><![CDATA[/* 页脚透明 */#footer {    background: transparent !important;}/* 头图透明 */#page-header {    background: transparent !important;}/* 侧边栏透明 */#sidebar {    background: transparent !important;}/* 代码框主题 */#article-container figure.highlight {    border-radius: 10px;}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>link</title>
       <link href="/links/index.html"/>
       <url>/links/index.html</url>
